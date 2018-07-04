@@ -32,6 +32,10 @@ gem 'jbuilder', '~> 2.5'
 
 # Use React.js
 gem 'react-rails', '~> 1.0'
+# Use marked
+gem 'marked-rails'
+# Use slim
+gem 'slim-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
